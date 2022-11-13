@@ -34,7 +34,7 @@ IBM Watson Assistant
 1) EMPATHY MAP [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/blob/main/Project%20Design%20%26%20Planing/Ideation%20Phase/Empathy%20Map.pdf)
 2) LITERATURE SURVEY [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/blob/main/Project%20Design%20%26%20Planing/Ideation%20Phase/Literature-Survey.pdf)
 3) PROBLEM STATEMENT [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/blob/main/Project%20Design%20%26%20Planing/Ideation%20Phase/Problem%20Statement..pdf)
-4) BRAINSTORMING IDEATION [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/commit/51d1b75dee969d5742609d66a3669ddfddf3b84a)
+4) BRAINSTORMING IDEATION [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/blob/main/Project%20Design%20%26%20Planing/Ideation%20Phase/Brainstorming%20and%20Idea%20Prioritization.pdf)
 5) TOP 3 IDEAS [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/blob/main/Project%20Design%20%26%20Planing/Ideation%20Phase/TOP%203%20%20IDEAS%20-%20IDEATION%20PHASE.pdf)
 # PROJECT DESIGN PHASE-1 :
 1) PROPOSED SOLUTION [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/blob/main/Project%20Design%20%26%20Planing/Project%20Design%20Phase%201/proposed%20solution%202.pdf)
