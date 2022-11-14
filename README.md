@@ -25,7 +25,7 @@ IBM Watson Assistant
 1) AATHIHA SHERIN P (TL) [Assignments](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/tree/main/Assignments/Aathiha%20Sherin%20P(TL))
 2) ADHITHIYAN M (TM 1) [Assignments](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/tree/main/Assignments/Adhithyan%20M%20%20%20(TM%201))
 3) ARAVINTH S (TM 2) [Assignments](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/tree/main/Assignments/Aravinth%20S%20(TM%202))
-4) ASWIN A (TM 3) [Assignments](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/tree/main/Assignments/Aswin%20A(TM%203))
+4) ASWIN A (TM 3) [Assignments](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/tree/main/Assignments/Aswin(tm%203))
 
 # PROJECT OBJECTIVES [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/blob/main/Project%20Objectives.pdf)
 # PREREQUISITES [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/blob/main/Prerequisites.pdf)
