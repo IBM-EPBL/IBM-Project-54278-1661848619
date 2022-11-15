@@ -54,4 +54,5 @@ IBM Watson Assistant
 3) SPRINT 3 [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/blob/main/Project%20Development%20Phase/Sprint%203/Sprint%20-%203.pdf)
 4) SPRINT 4 [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/blob/main/Project%20Development%20Phase/Sprint%204/Sprint%20-%204.pdf)
 # FINAL DELIVARABLES :
-SOURCE CODE [View Code File](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/tree/main/Final%20Deliverables/SOURCE%20CODE)
+1) SOURCE CODE [View Code File](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/tree/main/Final%20Deliverables/SOURCE%20CODE)
+2) OUTPUT [View File](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/tree/main/Final%20Deliverables/SOURCE%20CODE/output) 
