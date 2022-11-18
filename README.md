@@ -60,3 +60,4 @@ IBM Watson Assistant
 Project Demo Video Link [View File](
 https://user-images.githubusercontent.com/113752263/202144364-3afda02e-b96b-4bfa-8097-856a69955f3d.mp4
  )
+# PROJECT REPORT [View Document](https://github.com/IBM-EPBL/IBM-Project-54278-1661848619/files/10038745/IBM-54278-1662701746.pdf)
